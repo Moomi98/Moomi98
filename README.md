@@ -8,7 +8,7 @@ I usually use javascript, but now I'm using typescript for my graduation project
 
 I like riding a bike and singing! 🚲🎶
 
-🔥 I hope to make every website comfortable! 🔥  
+🔥 I hope to make every website more comfortable! 🔥  
 
 <h2 align="center">🛠Skills🛠</h1>
 
