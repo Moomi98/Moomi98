@@ -1,7 +1,6 @@
 
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Kim JeongHyeon&fontSize=90" /></div>
-
+<div style="border-radius:10px;"><img src="https://user-images.githubusercontent.com/76273383/166238311-ca5ae42e-c4ac-45da-8665-be6f7467c9eb.png"/></div>
 🖐 Hi there! I'm **frontend developer** using React.js. ✈
 
 I usually use javascript, but now I'm using typescript for my graduation project. 😃
