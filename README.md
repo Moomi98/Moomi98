@@ -20,3 +20,7 @@ I like riding a bike and singing! 🚲🎶
 ### 📩 Contact me 💨 kymkjh2002@gmail.com 📩 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMoomi98%2Fhit-counter&count_bg=%23628EED&title_bg=%23555555&icon=&icon_color=%23C4B2B2&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+## ✨ My Portfolio ✨
+
+https://friendly-meal-5a1.notion.site/d1a2cbb53f6d42de971b47dc72a4e9a3
