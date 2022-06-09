@@ -1,6 +1,11 @@
 
+<div align=center>
+  
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=JeongHyeonKim&fontSize=50&descSize=30&rotate=5&animation=twinkling)
+  
+</div>
 
-<div style="border-radius:10px;"><img src="https://user-images.githubusercontent.com/76273383/166238311-ca5ae42e-c4ac-45da-8665-be6f7467c9eb.png"/></div>
+<div align=center>
 
 🖐 Hi there! I'm **frontend developer** using React.js. ✈
 
@@ -24,3 +29,4 @@ I like riding a bike and singing! 🚲🎶
 ## ✨ My Portfolio ✨
 
 https://friendly-meal-5a1.notion.site/d1a2cbb53f6d42de971b47dc72a4e9a3
+</div>
