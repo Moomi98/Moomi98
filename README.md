@@ -9,7 +9,7 @@
 
 🖐 Hi there! I'm **frontend developer** using React.js. ✈
 
-I usually use javascript, but now I'm using typescript for my graduation project. 😃
+I recently interested in Svelte framework. 😃
 
 I like riding a bike and singing! 🚲🎶
 
