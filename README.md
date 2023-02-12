@@ -21,7 +21,7 @@ I like riding a bike and singing! 🚲🎶
   
  <h2 align="center">⚽️ Experience ⚽️</h1>
   
-Elice React Education Teacher : 2023.01 ~ 
+Elice React Education Teacher : 2023.01 ~ 2023.02
 
 Naver Web Frontend Intern : 2022.08
   
