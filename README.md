@@ -7,7 +7,7 @@
 
 <div align=center>
 
-🖐 Hi there! I'm **frontend developer** using React.js. ✈
+🖐 Hi there! I'm **frontend developer** using React and Vue. ✈
 
 I recently interested in WebRTC 😃
 
